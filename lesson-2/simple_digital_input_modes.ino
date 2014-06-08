@@ -23,8 +23,8 @@ void loop() {
   // read input
   int reading = digitalRead(buttonPin);
 
-  // advance our mode by 1!
-  if (reading==HIGH){
+  // advance our mode by 1 if the pin is low
+  if (reading==LOW){
     currentPinMode = currentPinMode + 1;
     if (currentPinMode>3) {
       currentPinMode = 0;
