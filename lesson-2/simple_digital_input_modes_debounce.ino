@@ -50,7 +50,7 @@ void loop() {
       // only change the LED mode if the new button state is LOW
       if (buttonState == LOW) {
         currentPinMode = currentPinMode + 1;
-        if (currentPinMode>3) {
+        if (currentPinMode >= 3) {
           currentPinMode = 0;
         }
       }
