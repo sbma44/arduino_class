@@ -24,8 +24,6 @@ void loop()
       // how many times should we blink?
       int numberOfTimesToBlink = (incomingByte - 'A') + 1;
 
-      Serial.print("I am about to blink " + String(numberOfTimesToBlink) + " time(s)...");
-
       // okay, blink that many times
       for(int i=0; i < numberOfTimesToBlink; i++) {
         digitalWrite(ledPin, HIGH);
@@ -33,8 +31,6 @@ void loop()
         digitalWrite(ledPin, LOW);
         delay(200);
       }
-      
-      Serial.println(" okay, done.");
     }           
   }
 }
