@@ -10,7 +10,7 @@ def do_something_else():
 	print "[LAPTOP]  I'm doing something down here, too // %s" % time.time()
 
 # initialize the serial port
-ser = serial.Serial('/dev/tty.usbmodem1421', 9600)
+ser = serial.Serial('/dev/tty.usbmodem1411', 9600)
 
 # do the following forever
 while True:

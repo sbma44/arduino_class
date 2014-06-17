@@ -1,0 +1,2 @@
+* demonstrate to students how to write serial signals from python (ser.write(), ser.flush())
+* simplify bikeshare object usage

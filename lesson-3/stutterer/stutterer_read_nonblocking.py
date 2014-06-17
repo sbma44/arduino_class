@@ -15,7 +15,7 @@ def do_something_else():
 	print "[LAPTOP]  I'm doing something down here, too // %s" % time.time()
 
 # initialize the serial port with timeout=0 to disable blocking
-ser = serial.Serial('/dev/tty.usbmodem1421', 9600, timeout=0)
+ser = serial.Serial('/dev/tty.usbmodem1411', 9600, timeout=0)
 
 # we will use this string as a scratch-pad for half-collected messages
 incoming_message = ""
