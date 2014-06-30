@@ -27,3 +27,4 @@ You can find class notes at the following links, or as PDFs within the project's
 * [Lesson 2 - Digital Input](https://docs.google.com/presentation/d/1CWVHlpxCbt6r7GCFX95Dhw0FgfpoAQ3FLUMBNEgltlE/edit?usp=sharing)
 * [Lesson 3 - Serial Communication](https://docs.google.com/presentation/d/1vPP5Um6v-PH0S9RmA1nb8KTqyDUe6FvZ6uJJwW-BkO0/edit?usp=sharing)
 * [Lesson 4 - Analog Input/Output](https://docs.google.com/presentation/d/1v44Z1UK2zNZAmFxzXQR1lURL2bSF0jxj5dahmTNXYXc/edit?usp=sharing)
+* [Lesson 5 - What To Buy For Your New Hobby](https://docs.google.com/presentation/d/1hG8qm2u_oSdwhisx1egNyJrW7o34sUsDUPmqTvNluCo/edit?usp=sharing)
